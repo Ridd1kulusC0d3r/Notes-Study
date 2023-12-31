@@ -6,7 +6,6 @@
 - Investigação de email e domains - https://www.skymem.info/srch?q=ish.com.br&ss=srch
 - Intel 471 - https://intel471.com/
 
-
 ## Osint e investigação de imagens
 - Amazon Rekognition Image - https://aws.amazon.com/pt/rekognition/pricing/
 - Imagga - https://imagga.com/auth/signin
